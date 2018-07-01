@@ -9,6 +9,6 @@ This python program executes three SQL-queries against a postgresql database cal
 
 ## Run it
 
-To run the program call "python logAnalysis.py"
+To run the program call `python logAnalysis.py`
 
 There must be an active postgresql database on the machine in order to work!
